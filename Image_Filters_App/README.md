@@ -14,6 +14,9 @@ After processing, you can download the modified image with a filename that inclu
   - Blur
   - Edge Detection (Canny)
   - Invert Colors
+  - Solarize
+  - Dust and Scratches
+  - Emboss
 - ✅ Preview original and processed images
 - ✅ Download the processed image
 
@@ -34,10 +37,16 @@ Here's a short demo of the app in action:
 ```bash
 git clone https://github.com/your-username/Computer_Vision_Projects.git
 cd Computer_Vision_Projects/Image_Filters_App
+```
+
+---
 
 ### 2️⃣ Install dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
 ### 3️⃣ Run the app
+```bash
 streamlit run image_filters_app.py
+```
