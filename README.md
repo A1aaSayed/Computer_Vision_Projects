@@ -10,7 +10,7 @@ Each project is organized in its own subfolder with code, README, and necessary 
 ## ✨ Author
 **Alaa Sayed**  
 - [GitHub Profile](https://github.com/A1aaSayed)
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/a1aasayed/))
+- [LinkedIn](https://linkedin.com/in/a1aasayed)
 
 ## 📝 License
 This repository is licensed under the **MIT License** — feel free to use and contribute!
