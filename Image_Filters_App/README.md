@@ -35,7 +35,7 @@ Here's a short demo of the app in action:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Computer_Vision_Projects.git
+git clone https://github.com/A1aaSayed/Computer_Vision_Projects.git
 cd Computer_Vision_Projects/Image_Filters_App
 ```
 
