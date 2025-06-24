@@ -40,7 +40,7 @@ Here's a short demo of the app in action:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/A1aaSayed/Computer_Vision_Projects.git
+git clone https://github.com/A1aaSayed/AI_Projects.git
 cd fake-news-detector
 ```
 
