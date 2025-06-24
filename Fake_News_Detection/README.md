@@ -17,6 +17,14 @@ This project was built using Python, Streamlit, and scikit-learn, and is trained
 
 ---
 
+## 🚀 Demo
+
+Here's a short demo of the app in action:
+
+![Fake Detection App Demo](demo.gif)
+
+---
+
 ## 🧠 Model Training Overview
 
 - Merged and labeled real and fake news datasets
