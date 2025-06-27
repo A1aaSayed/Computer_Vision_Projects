@@ -13,9 +13,9 @@ Each folder contains a **standalone AI project** complete with code, documentati
 
 | Project | Domain | Technologies | Summary |
 |--------|--------|--------------|---------|
-| [`📰 Fake News Detection`](./FakeNewsDetection) | NLP | Scikit-learn, Pandas, TF-IDF | A binary classifier that detects whether a news article is real or fake using natural language processing and traditional ML models. |
-| [`🎨 Image Filters App`](./ImageFiltersApp) | Computer Vision | OpenCV, Streamlit | A web app that applies real-time image filters (grayscale, sketch, blur, edge detection) to uploaded images. |
-| [`📷 CIFAR-10 Image Classification`](./ImageClassifier) | Deep Learning | TensorFlow, Streamlit | A CNN-based app that classifies CIFAR-10 images into 10 categories. Also includes a transfer learning model using EfficientNetV2B0. |
+| [`🎨 Image Filters App`](https://github.com/A1aaSayed/AI_Projects/tree/main/Image_Filters_App) | Computer Vision | OpenCV, Streamlit | A web app that applies real-time image filters (grayscale, sketch, blur, edge detection) to uploaded images. |
+| [`📰 Fake News Detection`](https://github.com/A1aaSayed/AI_Projects/tree/main/Fake_News_Detection) | NLP | Scikit-learn, Pandas, TF-IDF | A binary classifier that detects whether a news article is real or fake using natural language processing and traditional ML models. |
+| [`📷 CIFAR-10 Image Classification`](https://github.com/A1aaSayed/AI_Projects/tree/main/Image_Classificaton) | Deep Learning | TensorFlow, Streamlit | A CNN-based app that classifies CIFAR-10 images into 10 categories. Also includes a transfer learning model using EfficientNetV2B0. |
 | _More coming soon..._ | | | |
 
 ---
