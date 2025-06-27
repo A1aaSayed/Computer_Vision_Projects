@@ -49,8 +49,9 @@ I specialize in NLP, computer vision, and deep learning, and this repository is 
 
 - 📚 Currently exploring MLOps, GANs, and LLMs
 
-> [GitHub Profile](https://github.com/A1aaSayed)
-> [LinkedIn](https://linkedin.com/in/a1aasayed)
+- [GitHub Profile](https://github.com/A1aaSayed)
+
+- [LinkedIn](https://linkedin.com/in/a1aasayed)
 
 ## 📝 License
 This repository is licensed under the **MIT License** — feel free to use and contribute!
