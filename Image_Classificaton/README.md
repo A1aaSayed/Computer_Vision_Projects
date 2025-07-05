@@ -14,6 +14,12 @@ This project includes **two deep learning models**:
 Both models are trained to classify images into 10 categories from the CIFAR-10 dataset.
 
 ---
+## 🚀 Demo
+
+Here's a short demo of the app in action:
+
+![Image Classification App Demo](demo.gif)
+---
 
 ## 🧰 Tech Stack
 
